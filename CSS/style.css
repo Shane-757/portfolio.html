@@ -1,4 +1,7 @@
-.header-link:hover,.header-item-contact-link:hover,.hero-button:hover:hover,.footer-item-link:hover,.navigation-button:hover{
+.header-link:hover,.header-item-contact-link:hover,.hero-button:hover,.footer-item-link:hover,.navigation-button:hover{
+    color:#2196F3;
+}
+.header-link:focus,.header-item-contact-link:focus,.heor-button:focus,.footer-item-link:focus,.navigation-button:focus{
     color:#2196F3;
 }
 .body{
